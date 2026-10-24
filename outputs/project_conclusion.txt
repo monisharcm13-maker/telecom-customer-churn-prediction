@@ -1,0 +1,26 @@
+
+PROJECT CONCLUSION
+
+This project developed a customer churn prediction
+pipeline using the Telco Customer Churn dataset.
+
+The selected classification algorithm was
+Logistic Regression, using No Scaling.
+
+The decision threshold was 0.10.
+
+On the held-out test dataset, the model achieved:
+Accuracy: 0.6075
+Precision: 0.3991
+Recall: 0.9465
+F2-score: 0.7428
+
+Using the illustrative retention campaign assumptions,
+the estimated net benefit was Rs. 442,300.00,
+with an estimated ROI of 498.65%.
+
+These financial estimates depend on assumed costs,
+customer value, and campaign effectiveness.
+
+The results demonstrate how classification models
+can support customer retention decisions.

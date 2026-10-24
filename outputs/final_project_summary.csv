@@ -1,0 +1,2 @@
+Best Model,Best Scaler,Selected Threshold,Test Accuracy,Test Precision,Test Recall,Test F2 Score,Campaign Cost,Expected Benefit,Net Benefit,ROI (%)
+Logistic Regression,No Scaling,0.1,0.6075230660042583,0.399098083427283,0.946524064171123,0.7427612253462023,88700,531000.0,442300.0,498.64712514092446

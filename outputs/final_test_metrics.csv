@@ -1,0 +1,2 @@
+Model,Scaler,Threshold,Accuracy,Precision,Recall,F2_Score
+Logistic Regression,No Scaling,0.1,0.6075230660042583,0.399098083427283,0.946524064171123,0.7427612253462023
